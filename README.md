@@ -6,7 +6,7 @@
 ***Como Empezar*** 
 
 >Clona el Repositorio
-`git clone https://github.com/AngelVelay/PORTAFOLIO_PERSONAL/`
+`git clone https://github.com/AngelVelay/Wordle/`
 
 > Instala las dependencias que necesitas
 `npm install `
