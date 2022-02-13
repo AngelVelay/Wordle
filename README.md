@@ -1,6 +1,6 @@
 # WORDLE CLONE
 
-## Clone del juego Wordle
+## Clon del juego Wordle
 
 
 ***Como Empezar*** 
